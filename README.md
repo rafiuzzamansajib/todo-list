@@ -1,11 +1,3 @@
-# Todo List (live build-along!)
-
-Todo List app built with React, Typescript, and Styled Components
-
-See me build this todo list app live on my [YouTube channel](https://www.youtube.com/channel/UC0cMNvO8KRkv_vwRPXkKwsQ):
-- Part 1: https://www.youtube.com/watch?v=CUyl3LdBvGU
-- Part 2: https://www.youtube.com/watch?v=QSqRHBJqogM
-
 ## Scripts
 
 In the project directory, you can run:
